@@ -1,7 +1,7 @@
 ### Hi there ☁︎
 <!--![IMG_6502](https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG)-->
 
-<center><img src="https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG" width="40%"></center>
+<center> <img src="https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG" width="40%"> </center>
 
 <!--
 **wwjdtm/wwjdtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
