@@ -1,7 +1,7 @@
 ### Hi there ☁︎
 <!--![IMG_6502](https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG)-->
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG" width="40%"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/28584133/147050354-4fcfada5-7d09-4a2f-9976-57636b7e26b8.JPG" width="40%"> </p>
 
 <!--
 **wwjdtm/wwjdtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236D75D3&title_bg=%23212121&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
+
