@@ -1,4 +1,4 @@
-<p align="center">☁︎
+<!-- <p align="center">☁︎ -->
 <!--![IMG_6502](https://user-images.githubusercontent.com/28584133/106469766-0d64dd80-64e3-11eb-964e-b50f1e54713a.JPG)-->
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/28584133/147050354-4fcfada5-7d09-4a2f-9976-57636b7e26b8.JPG" width="40%"> </p>
